@@ -1,0 +1,137 @@
+[
+    {
+        "img": "https://i.ibb.co/VHwTqHT/t-shirt-painting-indoors-still-life.jpg",
+        "name": "Product 1",
+        "sellerEmail": "seller1@example.com",
+        "sellerName": "Seller 1",
+        "status": "Available",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ligula non libero fermentum posuere. Nullam sit amet consequat eros.",
+        "price": 50,
+        "rating": 4.5,
+        "buyer": {
+            "buyerName": "Buyer 1",
+            "buyerEmail": "buyer1@example.com"
+        },
+        "publishedDate": "2024-05-08"
+    },
+    {
+        "img": "https://i.ibb.co/rbtdXxj/trendy-top-design-mockup-presented-wooden-hanger.jpg",
+        "name": "Product 2",
+        "sellerEmail": "seller2@example.com",
+        "sellerName": "Seller 2",
+        "status": "Sold",
+        "description": "Sed fringilla justo ac diam fermentum, ac tincidunt eros fermentum. Integer sed mi ac ante convallis imperdiet. Vestibulum vel nulla quis risus posuere imperdiet.",
+        "price": 70,
+        "rating": 4.8,
+        "buyer": {
+            "buyerName": "Buyer 2",
+            "buyerEmail": "buyer2@example.com"
+        },
+        "publishedDate": "2024-05-07"
+    },
+    {
+        "img": "https://i.ibb.co/kQpT96m/still-life-with-classic-shirts-hanger.jpg",
+        "name": "Product 3",
+        "sellerEmail": "seller3@example.com",
+        "sellerName": "Seller 3",
+        "status": "Available",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer auctor justo nec efficitur sollicitudin.",
+        "price": 100,
+        "rating": 4.2,
+        "buyer": {
+            "buyerName": "Buyer 3",
+            "buyerEmail": "buyer3@example.com"
+        },
+        "publishedDate": "2024-05-06"
+    },
+    {
+        "img": "https://i.ibb.co/Wg9yqHW/shirt-hanger-with-green-background.jpg",
+        "name": "Product 4",
+        "sellerEmail": "seller4@example.com",
+        "sellerName": "Seller 4",
+        "status": "Available",
+        "description": "Aliquam vitae sapien at purus tincidunt tempor a sed nulla. Fusce rutrum magna non dui faucibus varius.",
+        "price": 120,
+        "rating": 4.6,
+        "buyer": {
+            "buyerName": "Buyer 4",
+            "buyerEmail": "buyer4@example.com"
+        },
+        "publishedDate": "2024-05-05"
+    },
+    {
+        "img": "https://i.ibb.co/0tgx67z/portrait-excited-happy-shopaholic-woman-holding-shopping-bags-showing-plastic-credit-card-smiling-am.jpg",
+        "name": "Product 5",
+        "sellerEmail": "seller5@example.com",
+        "sellerName": "Seller 5",
+        "status": "Available",
+        "description": "Donec auctor ligula a nisi ullamcorper, non condimentum dui vehicula. In hac habitasse platea dictumst.",
+        "price": 80,
+        "rating": 4.0,
+        "buyer": {
+            "buyerName": "Buyer 5",
+            "buyerEmail": "buyer5@example.com"
+        },
+        "publishedDate": "2024-05-04"
+    },
+    {
+        "img": "https://i.ibb.co/ZKwyMs2/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-with-sapce-your-test.jpg",
+        "name": "Product 6",
+        "sellerEmail": "seller6@example.com",
+        "sellerName": "Seller 6",
+        "status": "Sold",
+        "description": "Vestibulum rhoncus nisl sed sapien ultricies tincidunt. Suspendisse vel posuere quam, nec rutrum nulla. Nunc hendrerit risus ut tortor lobortis, in iaculis libero vestibulum.",
+        "price": 90,
+        "rating": 4.9,
+        "buyer": {
+            "buyerName": "Buyer 6",
+            "buyerEmail": "buyer6@example.com"
+        },
+        "publishedDate": "2024-05-03"
+    },
+    {
+        "img": "https://i.ibb.co/ZKwyMs2/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-with-sapce-your-test.jpg",
+        "name": "Product 7",
+        "sellerEmail": "seller7@example.com",
+        "sellerName": "Seller 7",
+        "status": "Available",
+        "description": "Fusce ac mauris nulla. Nulla auctor magna non luctus. Proin bibendum sagittis eros, at suscipit nisi suscipit vel.",
+        "price": 110,
+        "rating": 4.7,
+        "buyer": {
+            "buyerName": "Buyer 7",
+            "buyerEmail": "buyer7@example.com"
+        },
+        "publishedDate": "2024-05-02"
+    },
+    {
+        "img": "https://i.ibb.co/DbXMMZs/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger.jpg",
+        "name": "Product 8",
+        "sellerEmail": "seller8@example.com",
+        "sellerName": "Seller 8",
+        "status": "Available",
+        "description": "Integer malesuada, lacus non suscipit fermentum, est lorem varius neque, nec efficitur arcu arcu quis velit. Duis vehicula dui non mi molestie, nec eleifend dolor fringilla.",
+        "price": 60,
+        "rating": 4.3,
+        "buyer": {
+            "buyerName": "Buyer 8",
+            "buyerEmail": "buyer8@example.com"
+        },
+        "publishedDate": "2024-05-01"
+    },
+    {
+        "img": "https://i.ibb.co/VMRmsLK/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-1.jpg",
+        "name": "Product 9",
+        "sellerEmail": "seller9@example.com",
+        "sellerName": "Seller 9",
+        "status": "Available",
+        "description": "Aenean et nisi euismod, vehicula odio sit amet, luctus leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque ultricies sollicitudin ex ut sollicitudin.",
+        "price": 150,
+        "rating": 4.1,
+        "buyer": {
+            "buyerName": "Buyer 9",
+            "buyerEmail": "buyer9@example.com"
+        },
+        "publishedDate": "2024-04-30"
+    }
+]
