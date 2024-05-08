@@ -3,7 +3,7 @@ import logo from '../assets/pngwing.com.png'
 
 const Navbar = () => {
     return (
-        <nav className="border-gray-200 bg-[#061c1a]">
+        <nav className="sticky top-0 z-50 border-gray-200 bg-[#061c1a]">
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <Link to='/' className="flex items-center rtl:space-x-reverse">
                     <img src={logo} className="h-8" alt="Flowbite Logo" />
